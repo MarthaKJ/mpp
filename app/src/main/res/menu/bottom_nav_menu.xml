@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    <item
+        android:id="@+id/navigation_routines"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="routines" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="settings" />
+    <item
+        android:id="@+id/navigation_ideas"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="ideas" />
+    <item
+        android:id="@+id/navigation_things"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="things" />
+
+    <item
+        android:id="@+id/navigation_favorites"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="favorites"/>
+
+</menu>
